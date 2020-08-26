@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/Duy/python
 
 '''
     Copyright 2012, The Android Open Source Project
